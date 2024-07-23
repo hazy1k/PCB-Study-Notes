@@ -15,5 +15,3 @@ PCB，中文即印制电路板，或印刷线路板。它是电子产品中的�
 这个内容我肯定是讲不了的，不过可以参考这个：[PCB历史_百度百科 (baidu.com)](https://baike.baidu.com/item/PCB%E5%8E%86%E5%8F%B2/2030447)
 
 [PCB的发展历史 – 吴川斌的博客 (mr-wu.cn)](https://www.mr-wu.cn/courses/right-the-first-time-for-high-speed-pcb-design/lesson/pcb%e7%9a%84%e5%8f%91%e5%b1%95%e5%8e%86%e5%8f%b2/)
-
-
