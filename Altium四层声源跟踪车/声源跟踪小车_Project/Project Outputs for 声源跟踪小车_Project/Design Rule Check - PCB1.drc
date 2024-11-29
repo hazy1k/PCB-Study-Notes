@@ -1,0 +1,39 @@
+Protel Design System Design Rule Check
+PCB File : G:\01-【JHP硬件工作室】课程资料(需上传网盘)\07-Altium Designer 24 四层声源跟踪小车设计课程（2024）\03-Altium Designer 24 四层声源跟踪小车设计课程资料（未加密）\12-DRC检查与丝印调整\声源跟踪小车_Project\pcb\PCB1.PcbDoc
+Date     : 2024-08-08
+Time     : 21:46:38
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=30mil) (Preferred=10mil) (InNetClass('PWR'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=50mil) (Preferred=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Routing Layers(All)
+Rule Violations :0
+
+Processing Rule : Routing Via (MinHoleWidth=8mil) (MaxHoleWidth=8mil) (PreferredHoleWidth=8mil) (MinWidth=16mil) (MaxWidth=16mil) (PreferedWidth=16mil) (All)
+Rule Violations :0
+
+Processing Rule : Differential Pairs Uncoupled Length using the Gap Constraints (Min=8mil) (Max=8mil) (Prefered=8mil)  and Width Constraints (Min=6.23mil) (Max=6.23mil) (Prefered=6.23mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:01
