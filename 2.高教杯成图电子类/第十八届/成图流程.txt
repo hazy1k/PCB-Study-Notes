@@ -29,5 +29,13 @@
 17. 如DRC没报错，调整丝印
 18. 整体完成后再次检查DRC，处理报错
 19. 输出光绘文件及装配图，保持在gerber文件夹中
+---
+	1. 装配图：使用只能PDF，顶层需要设置顶层丝印层和阻焊层，机械层，底层同理
+	2. 光绘也就是gerber文件：	在PCB界面下【File】→【Fabrication Outputs】→【Gerber Files】
+	3. 回到PCB界面下【File】→【Fabrication Outputs】→【NC Drill Files】
+	4. 回到PCB文件界面中，菜单栏【File】→【Fabrication Outputs】→【Test Point Report】命令
+	5. 回到PCB文件界面中，菜单栏【File】→【Fabrication Outputs】→【Generates pick and place file】命令。进行元件坐标输出
+	6. Gerber文件输出完成。输出过程产生3个.cam文件可直接关闭，不用保存。在工程目录下的【Project Outputs for…】文件夹中的文件即为Gerber文件
+---
 20. 按题目要求整理文件，提交打包好的文件
 
