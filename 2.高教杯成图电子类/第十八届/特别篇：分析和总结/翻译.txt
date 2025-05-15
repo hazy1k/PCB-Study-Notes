@@ -1,3 +1,12 @@
+Designator --- 元件位号
+Comment --- 元件注释
+Description --- 描述
+---
+Duplicate Part Designators --- 存在重复的元件位号
+Floating net labels --- 存在悬浮的网络标签。
+ Floating Power Objects --- 存在悬浮的电源端口
+Nets with only one pin --- 存在单端网络
+---
 Components --- 元件
 Keepout --- 边框和禁止布线
 Tracks --- 导线
@@ -7,5 +16,5 @@ Vias --- 过孔
 Fills --- 铺铜方式，无视规则
 Regions --- 与Fill类似，可以多边形
 Polygons --- 铺铜
-Rooms --- 板子空间
+Rooms --- 空间，常用与模块复制粘贴
 Other --- 其他
